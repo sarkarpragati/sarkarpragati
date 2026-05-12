@@ -1,4 +1,4 @@
-# 🚀 Hey there, I'm Pragati Sarkar
+#  Hey there, I'm Pragati Sarkar
 
 🎓 B.Tech CSE (AIML) Student  
 💻 AI/ML Enthusiast  
