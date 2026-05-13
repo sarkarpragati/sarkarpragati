@@ -42,11 +42,13 @@
 ---
 
 ## 📌 Projects
-
-- 🩺 Diabetes Detection System
-- 🌸 Mother's Day Website
-- 🤖 AI/ML Mini Projects
-
+🚀 Built multiple projects in AI/ML 
+🧠 web development 
+📊 DSA 
+🩺 Diabetes Prediction System 
+📄 Resume Analyzer AI 
+🎭 Real-Time Emotion Detection
+Developed strong problem-solving skills through LeetCode and GeeksforGeeks practice in Python. Created interactive frontend projects like Birthday Surprise and Mother’s Day websites using HTML and CSS. Worked on machine learning experiments covering classification, regression, and clustering in a lab environment. Focused on building practical, real-world applications using Python, ML, and web technologies.
 ---
 
 ## 📫 Connect With Me
