@@ -1,17 +1,25 @@
-#  Hey there, I'm Pragati Sarkar
+# 👋 Hey there, I'm Pragati Sarkar
 
-🎓 B.Tech CSE (AIML) Student  
-💻 AI/ML Enthusiast  
-🌱 Currently learning Python, DSA & Web Development  
-🚀 Passionate about building innovative projects
+🎓 B.Tech CSE (AIML) student  
+💡 Passionate about AI, Machine Learning, and real-world problem solving  
+⚙️ I build intelligent systems that turn ideas into usable products  
+🚀 Currently focused on Python, AI/ML, and full-stack development  
 
 ---
+## 🧠 About Me
+
+- 🔭 Working on AI-based and data-driven applications  
+- 🌱 Learning Python, Machine Learning, and system design fundamentals  
+- 💬 Interested in building impactful tech solutions  
+- 🎯 Goal: Become a AI Engineer / Software Developer  
 
 ## 🛠️ Tech Stack & Tools
 
 ### Languages
 ![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql)
 
 ### Web Development
 ![HTML](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=html5)
@@ -20,7 +28,17 @@
 
 ### AI/ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-orange?style=for-the-badge&logo=tensorflow)
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy)
+![NLP](https://img.shields.io/badge/NLP-6A5ACD?style=for-the-badge)
 
+### Frameworks & Tools
+![Streamlit](https://img.shields.io/badge/Streamlit-red?style=for-the-badge&logo=streamlit)
+![Flask](https://img.shields.io/badge/Flask-black?style=for-the-badge&logo=flask)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github)
+![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code)
 ---
 
 ## 📌 Projects
