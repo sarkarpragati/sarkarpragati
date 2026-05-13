@@ -42,6 +42,7 @@
 ---
 
 ## 📌 Projects
+
 🚀 Built multiple projects in AI/ML 
 🧠 web development 
 📊 DSA 
